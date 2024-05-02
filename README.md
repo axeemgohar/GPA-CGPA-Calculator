@@ -1,1 +1,2 @@
-# GPA-CGPA-Calculator
+# Simple CGPA Calculator
+### (https://www.calculatecgpa.com/)
